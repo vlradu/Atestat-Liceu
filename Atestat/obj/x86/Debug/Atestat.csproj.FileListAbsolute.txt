@@ -1,0 +1,58 @@
+M:\Informatica-XII\Atestat\Atestat\Atestat\bin\Debug\Atestat.exe
+M:\Informatica-XII\Atestat\Atestat\Atestat\bin\Debug\Atestat.pdb
+M:\Informatica-XII\Atestat\Atestat\Atestat\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Informatica-XII\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.GameMain.resources
+M:\Informatica-XII\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.VladRadu.resources
+M:\Informatica-XII\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.Properties.Resources.resources
+M:\Informatica-XII\Atestat\Atestat\Atestat\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\Informatica-XII\Atestat\Atestat\Atestat\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\Informatica-XII\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.exe
+M:\Informatica-XII\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.pdb
+M:\Informatica-XII\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.ExitPrompt.resources
+D:\Projects\C#\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.exe
+D:\Projects\C#\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.pdb
+D:\Projects\C#\Atestat XII Resources\Atestat\Atestat\Atestat\bin\Debug\Atestat.exe
+D:\Projects\C#\Atestat XII Resources\Atestat\Atestat\Atestat\bin\Debug\Atestat.pdb
+D:\Projects\C#\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.ExitPrompt.resources
+D:\Projects\C#\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.GameMain.resources
+D:\Projects\C#\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.VladRadu.resources
+D:\Projects\C#\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.Properties.Resources.resources
+D:\Projects\C#\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.csproj.GenerateResource.Cache
+D:\Projects\C#\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.csprojResolveAssemblyReference.cache
+D:\Projects\C#\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.ManaCriminala.resources
+D:\Projects\C#\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.GameOver.resources
+D:\Projects\C#\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.Puzzle1.resources
+D:\Projects\C#\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.Puzzle2.resources
+D:\Projects\C#\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.Puzzle3.resources
+I:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.exe
+I:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.pdb
+I:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\bin\Debug\Atestat.exe
+I:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\bin\Debug\Atestat.pdb
+I:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.ExitPrompt.resources
+I:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.GameMain.resources
+I:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.GameOver.resources
+I:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.ManaCriminala.resources
+I:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.Puzzle1.resources
+I:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.Puzzle2.resources
+I:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.Puzzle3.resources
+I:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.VladRadu.resources
+I:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.Properties.Resources.resources
+I:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.exe
+D:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.pdb
+D:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\bin\Debug\Atestat.exe
+D:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\bin\Debug\Atestat.pdb
+D:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.csprojResolveAssemblyReference.cache
+D:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.ExitPrompt.resources
+D:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.GameMain.resources
+D:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.GameOver.resources
+D:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.ManaCriminala.resources
+D:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.Puzzle1.resources
+D:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.Puzzle2.resources
+D:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.Puzzle3.resources
+D:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.VladRadu.resources
+D:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.Properties.Resources.resources
+D:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.csproj.GenerateResource.Cache
+I:\Non-Windows-Related-Stuff\Atestat XII Resources\Atestat\Atestat\Atestat\obj\x86\Debug\Atestat.Help.resources
